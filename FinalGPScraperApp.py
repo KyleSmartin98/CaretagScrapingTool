@@ -132,8 +132,8 @@ def run_script(n_clicks, url, pages):
         pages= str(pages)
         pages2 = int(pages)
         CSV= 'Generic.csv'
-        email = 'lehmansisters2007@gmail.com'
-        password = 'password1234!'
+        email = # Your Grailed Email
+        password = # Your Grailed Password
         url = 'https://www.grailed.com/'
         option = webdriver.ChromeOptions()
         # For older ChromeDriver under version 79.0.3945.16
